@@ -1,7 +1,7 @@
 ╭──── 𝙳𝚎𝚟 𝚍𝚒𝚜𝚌𝚘𝚛𝚍
 ┣ 𝚂𝚎𝚛𝚟𝚒𝚍𝚘𝚛𝚎𝚜 𝚍𝚒𝚜𝚌𝚘𝚛𝚍
 ┣ 𝙱𝚘𝚝𝚜 𝚍𝚒𝚜𝚌𝚘𝚛𝚍
-╰──── 𝙳𝚒𝚜𝚌𝚘𝚛𝚍 𝚜𝚎𝚛𝚟𝚎𝚛: [[𝙵𝙶 𝙳𝚎𝚟](https://discord.gg/x6gmnMhV2A)]
+╰──── 𝙳𝚒𝚜𝚌𝚘𝚛𝚍 𝚜𝚎𝚛𝚟𝚎𝚛: [[HG Group](https://discord.gg/x6gmnMhV2A)]
 
 <!---
 foourFUUN/foourFUUN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
